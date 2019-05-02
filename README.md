@@ -1,7 +1,7 @@
 - Run
  + run npm install (to install all modules)
  + node server.js
- + install nodemon(npm install nodemon -g) and call nodemon server.js
+ + or use nodemon(npm install nodemon -g) and call nodemon server.js
 
 - You need install mongodb
 + How to install mongodb (searching on the internet)
